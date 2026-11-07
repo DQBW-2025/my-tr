@@ -45,8 +45,9 @@ concurrency:
 
 permissions:
   contents: read
-  actions: write
-
+  pages: write
+  id-token: write
+  
 jobs:
   crawl:
     runs-on: ubuntu-latest
