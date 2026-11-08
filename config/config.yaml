@@ -148,8 +148,8 @@ rss:
       url: "https://rsshub.app/cctv/world"
 
     - id: "cctvxwlb"
-      name: "央视新闻联播"
-      url: "https://rsshub.dicomp.net/cctv/tv/lm/xwlb"
+      name: "新闻联播图文版"
+      url: "https://rsshub.dicomp.net/xinwenlianbo"  # 或尝试 /xinwenlianbo/index
 
     - id: "yicainews"
       name: "第一财经"
