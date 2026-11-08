@@ -147,9 +147,9 @@ rss:
       name: "央视国际"
       url: "https://rsshub.app/cctv/world"
 
-    - id: "cctvxwlb"
-      name: "新闻联播图文版"
-      url: "https://rsshub.dicomp.net/xinwenlianbo"  # 或尝试 /xinwenlianbo/index
+    - id: "cnrfe"
+      name: "央广财经头条"
+      url: "https://rss.app/feeds/JFchYyKs4z08tIwg.xml"  # 或尝试 /xinwenlianbo/index
 
     - id: "yicainews"
       name: "第一财经"
