@@ -149,7 +149,22 @@ rss:
 
     - id: "cnrfe"
       name: "央广财经头条"
-      url: "https://rss.app/feeds/JFchYyKs4z08tIwg.xml"  # 或尝试 /xinwenlianbo/index
+      url: "https://rss.app/feeds/JFchYyKs4z08tIwg.xml"
+    - id: "cnr-educetion"
+      name: "央广网教育"
+      url: "https://rss.app/feeds/Dfe8P3c7O9ISO7wC.xml"
+
+    - id: "cnr-cultral&tourism"
+      name: "央广网文旅"
+      url: "https://rss.app/feeds/otjaOZUCPO3GHypO.xml"
+
+    - id: "cnr-living"
+      name: "央广网民生"
+      url: "https://rss.app/feeds/v1XdCvNC0v9Ai8Ue.xml"
+
+    - id: "cnr-good"
+      name: "央广网消费"
+      url: "https://rss.app/feeds/vVHsDKdT5XNqF8C3.xml"
 
     - id: "yicainews"
       name: "第一财经"
