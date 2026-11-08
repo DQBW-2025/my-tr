@@ -134,6 +134,9 @@ jobs:
             exit 1
           fi
 
+      - name: Deduplicate RSS titles
+        run: python scripts/rss_title_dedup.py
+        
       - name: Run crawler
         if: success()
         env:
