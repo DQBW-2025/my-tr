@@ -143,16 +143,14 @@ rss:
       name: "教育部政策解读"
       url: "https://rsshub.dicomp.net/gov/moe/policy_anal"
 
-    - id: "cctvworld"
-      name: "央视国际"
-      url: "https://rsshub.app/cctv/world"
-
     - id: "cnrfe"
       name: "央广财经头条"
       url: "https://rss.app/feeds/JFchYyKs4z08tIwg.xml"
+      
     - id: "cnr-educetion"
       name: "央广网教育"
       url: "https://rss.app/feeds/Dfe8P3c7O9ISO7wC.xml"
+      enabled: false   # 禁用：多栏目聚合导致同一文章在 /jy/tt、/jy/gc、/jy/sy 等路径重复
 
     - id: "cnr-cultral&tourism"
       name: "央广网文旅"
@@ -161,6 +159,7 @@ rss:
     - id: "cnr-living"
       name: "央广网民生"
       url: "https://rss.app/feeds/v1XdCvNC0v9Ai8Ue.xml"
+      enabled: false   # 禁用：同一文章在 /mspd/msyx、/mspd/zhsh 等栏目重复
 
     - id: "cnr-good"
       name: "央广网消费"
